@@ -1,0 +1,10 @@
+h1 {
+    opacity: 1; /* H1 elementining ko'rinishi to'liq (ya'ni, hech qanday shaffoflik yo'q) */
+    color: red; /* H1 matni qizil rangda bo'ladi */
+}
+
+p {
+    color: red; /* P (paragraf) matni qizil rangda bo'ladi */
+    text-align: center; /* Paragraf matni markazga joylashtiriladi */
+    font-weight: bold; /* Paragraf matni qalin qilib ko'rsatiladi */
+}
