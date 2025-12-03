@@ -8,3 +8,6 @@ p {
     text-align: center; /* Paragraf matni markazga joylashtiriladi */
     font-weight: bold; /* Paragraf matni qalin qilib ko'rsatiladi */
 }
+# sariq {
+    color: yellow;
+}
